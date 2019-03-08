@@ -12,3 +12,6 @@
 # limitations under the License.
 #
 runtime: nodejs10
+
+env_variables:
+  GCLOUD_STORAGE_BUCKET: di-web2-2019-data

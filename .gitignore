@@ -21,3 +21,5 @@ yarn-error.log*
 *.sw*
 
 keys.json
+DI-Web2-2019-2cf2b0264ab8.json
+.env
